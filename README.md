@@ -6,7 +6,7 @@
 This is the place for my side projects, learning path and contributions to the community.
 Feel free to review, fork, star and issue any repository. Feedback is always welcome!
 
-### 🟣 Go to my blog to learn something new (Spanish)
+### 🟣 Go to my Portfolio
 ✨ [franklin-dev](https://franklin-dev.netlify.app)
 
 ### 🟣 You can catch me on:

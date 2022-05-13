@@ -9,10 +9,6 @@ Feel free to review, fork, star and issue any repository. Feedback is always wel
 ### 🟣 Go to my Portfolio
 ✨ [franklin-dev](https://franklin-dev.netlify.app)
 
-### 🟣 You can catch me on:
-* [Twitter](https://twitter.com/Frankomtz361)
-* [Instagram](https://www.instagram.com/frankomtzl361)
-
 ### 🟣 Main Stack:
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>

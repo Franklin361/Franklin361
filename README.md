@@ -1,5 +1,3 @@
-![FranklinDev](https://media.licdn.com/dms/image/v2/D4E16AQH8n2wKIZGkMA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1718229756183?e=1729728000&v=beta&t=VEEv6HhKob2pOoxnuUWRpb5rayFjKzAzVNBvq3wpvPk)
----
 ✨ Hi there, thanks for following my work!
 
 ### 🟣 What you're gonna find
